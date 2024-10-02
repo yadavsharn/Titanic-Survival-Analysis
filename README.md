@@ -39,7 +39,7 @@ Visualizations created include:
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yadavsharn/Titanic-Survival-Analysis-Data-Cleaning-and-Visualization-with-Python.git
+   git clone https://github.com/yadavsharn/Titanic-Survival-Analysis
 
 2. Navigate to the project directory
    ```
