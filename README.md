@@ -39,7 +39,7 @@ Visualizations created include:
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yadavsharn/Titanic-Survival-Analysis
+   git clone https://github.com/yadavsharn/Titanic-Survival-Analysis.git
 
 2. Navigate to the project directory
    ```
