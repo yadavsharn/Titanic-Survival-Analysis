@@ -1,6 +1,6 @@
 # Titanic Survival Analysis: Data Cleaning and Visualization with Python
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/6/67/RMS_Titanic_3.jpg)
+![Titanic](https://en.wikipedia.org/wiki/File:RMS_Titanic_3.jpg)
 
 ## Overview
 This project explores the Titanic dataset to analyze survival rates based on various factors such as gender, passenger class, age, and fare. It provides insights into how these factors influenced survival during the tragic sinking of the Titanic.
